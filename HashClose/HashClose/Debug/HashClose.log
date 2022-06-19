@@ -1,0 +1,4 @@
+﻿  HashClose.cpp
+C:\Users\User\Desktop\unyk\екз\exam\HashClose\HashClose\HashClose.cpp(26,1): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\unyk\екз\exam\HashClose\HashClose\HashClose.cpp(37,1): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+  HashClose.vcxproj -> C:\Users\User\Desktop\unyk\екз\exam\HashClose\Debug\HashClose.exe
