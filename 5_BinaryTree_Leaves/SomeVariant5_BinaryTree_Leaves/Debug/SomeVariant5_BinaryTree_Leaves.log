@@ -1,0 +1,7 @@
+﻿  SomeVariant5_BinaryTree_Leaves.cpp
+C:\Users\User\Desktop\unyk\екз\exam\SomeVariant5_BinaryTree_Leaves\SomeVariant5_BinaryTree_Leaves\SomeVariant5_BinaryTree_Leaves.cpp(38,34): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  SomeVariant5_BinaryTree_Leaves.vcxproj -> C:\Users\User\Desktop\unyk\екз\exam\SomeVariant5_BinaryTree_Leaves\Debug\SomeVariant5_BinaryTree_Leaves.exe
