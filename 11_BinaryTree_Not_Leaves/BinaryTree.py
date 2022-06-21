@@ -1,5 +1,6 @@
 import random
-
+def cout(*args, delim = ''):
+    print(*args, end=delim)
 
 class Node:
     def __init__(self, d):
